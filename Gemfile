@@ -15,3 +15,5 @@ gem "zip"
 gem "zip-zip"
 
 gem "rubyzip"
+
+gem "rails", "~> 7.0.1"
