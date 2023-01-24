@@ -12,8 +12,8 @@ gem "rspec", "~> 3.12.0"
 
 gem "zip"
 
-gem "zip-zip"
+gem "rubyzip", '>= 1.0.0'
 
-gem "rubyzip"
+gem "zip-zip"
 
 gem "rails", "~> 7.0.1"
